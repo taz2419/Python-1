@@ -24,7 +24,7 @@ bol_ = True
 # other at the end. Use only half of the list.
 for items in range(length_ // 2):
     if phrase[items] != phrase[length_ - 1 - items]:  
-        print("\nSorry, The given phrase is not a Palindrome.")
+        print("\Oops, This phrase is not a Palindrome.")
         bol_ = False
         break
 
