@@ -29,7 +29,7 @@ for items in range(length_ // 2):
         break
 
 if bol_ == True:
-    print("\nWow!, The phrase is a Palindrome!")
+    print("\nYo!, This phrase is a Palindrome!")
     
     
     
